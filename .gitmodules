@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/cdriveraus/universe
 	shallow = true
 	branch = HEAD
 [submodule "ctsem"]
@@ -8,8 +8,8 @@
 	url = https://github.com/cdriveraus/ctsem
 	shallow = true
 	registered = true
-[submodule "ctsemOMX"]
-	path = ctsemOMX
-	url = https://github.com/cdriveraus/ctsemomx
+[submodule "bigIRT"]
+	path = bigIRT
+	url = https://github.com/cdriveraus/bigIRT
 	shallow = true
 	registered = true
