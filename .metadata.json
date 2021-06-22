@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ctsem",
+    "oncran": true
+  },
+  {
+    "package": "ctsemOMX",
+    "oncran": true
+  }
+]
