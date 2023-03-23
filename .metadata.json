@@ -1,9 +1,0 @@
-[
-  {
-    "package": "ctsem",
-    "oncran": true
-  },
-  {
-    "package": "bigIRT"
-  }
-]
