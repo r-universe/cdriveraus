@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/cdriveraus/universe
-	shallow = true
 	branch = HEAD
 [submodule "ctsem"]
 	path = ctsem
 	url = https://github.com/cdriveraus/ctsem
-	shallow = true
-	registered = true
 [submodule "bigIRT"]
 	path = bigIRT
 	url = https://github.com/cdriveraus/bigIRT
-	shallow = true
-	registered = true
