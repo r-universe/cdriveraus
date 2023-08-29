@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/cdriveraus/universe
 	branch = HEAD
-[submodule "ctsem"]
-	path = ctsem
-	url = https://github.com/cdriveraus/ctsem
 [submodule "bigIRT"]
 	path = bigIRT
 	url = https://github.com/cdriveraus/bigIRT
+[submodule "ctsem"]
+	path = ctsem
+	url = https://github.com/cdriveraus/ctsem
