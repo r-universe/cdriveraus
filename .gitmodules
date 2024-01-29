@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/cdriveraus/universe
+	url = https://github.com/cdriveraus/cdriveraus.r-universe.dev
 	branch = HEAD
 [submodule "bigIRT"]
 	path = bigIRT
